@@ -1,0 +1,113 @@
+body { 
+	background-color: rgb(230, 230,230);
+    font-size: 16px;
+    font-family: arial;
+    
+    }
+
+
+	h1 {
+		color: black;
+		font-family: Helvetica;
+		font-size: 32px;
+		font-weight: 100;
+	} 
+
+	h2 {
+		color: royalblue;
+		font-family: courier;
+		font-size: 20px;
+		font-weight: 100;
+		} 
+
+
+
+
+	a:hover  {
+		color: yellowgreen;
+		} 
+
+
+
+		div{ 
+			border-top: 2px solid blue;
+			border-right: 2px dotted black;
+			border-bottom: 2px black;
+			border-left: solid black;
+			width: 1500px;
+			box-shadow: 0 15px 35px;
+			border-radius: 3px;
+
+} 
+
+<body style="
+    border-top: 2px solid blue;
+    border-right: 2px dotted black;
+    border-bottom: 6px black;
+    border-left: solid black;
+    box-shadow: 0 15px 35px;
+    border-radius: 4px;
+    width:1500px
+">
+
+<div>
+   <h1> Hello I'm Sam</h1>
+   <img src="images/IMG_4371-1.jpg" width="80" alt="Sam Sekhraoui">
+   <p>
+    </p><p>j'adore voyager, je suis étudiant à l'EMLV en première année.
+   </p><p>
+</p></div>
+
+
+
+ <div>
+   <h2>sport</h2><h2>
+   <p> je pratique du tennis depuis maintenant 14 ans et j'adore aussi le foot que je pratique en loisir et au sein de l'école.
+   </p><p>
+</p></h2></div>	
+
+<div>
+    <h2>jeux vidéos</h2><h2>
+    <p> j'adore jouer aux jeux vidéos lors de mon temps libre pour me détendre et passer un bon moment.
+    </p><p>
+</p></h2></div>		
+
+<div>
+    <h2>voiture</h2><h2> 
+    <p> j'adore aussi les voitures et la f1.
+</p></h2></div>		
+
+<div>
+    <h2>Follow me</h2>
+
+    
+
+  <a href="www.linkedin.com/in/sam-sekhraoui-0a13a524b">
+      <i class=""></i>  Linkedin
+    </a>
+  
+  <li>
+  	
+  	<a href="www.instagram.com/samsek95/">
+  		<i class=""></i>  Instagram
+  		 </a>
+  </li>
+  <li>
+  	<a href="https://twitter.com/samsek95">
+  	<i class=""></i> Twitter
+  		</a>
+
+  </li>
+  <li>
+</li></div>
+     	
+
+
+
+	
+
+
+
+
+
+</body>
